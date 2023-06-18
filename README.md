@@ -8,7 +8,7 @@ go-recaptcha-v3-bypass provides a seamless solution for bypassing reCAPTCHA chal
 
 To install go-recaptcha-v3-bypass, use go get:
 
-### ```go get github.com/yourusername/go-recaptcha-v3-bypass```
+### ```go get github.com/sp4reeee/go-recaptcha-v3-bypass```
 
 ## Quick Start
 
@@ -20,7 +20,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/yourusername/go-recaptcha-v3-bypass/bypass"
+	"github.com/sp4reeee/go-recaptcha-v3-bypass/bypass"
 )
 
 func main() {
